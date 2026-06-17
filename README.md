@@ -10,10 +10,10 @@
 
 ### productivity/
 
-| Skill | Original Author / 原作者 | Description / 说明 |
-|-------|-------------------------|-------------------|
-| [caveman-hermes-skill](./productivity/caveman-hermes-skill/SKILL.md) | [mattpocock](https://github.com/mattpocock) | [EN] Ultra-compressed communication mode. Drops filler, articles, pleasantries — saves ~75% tokens while keeping full technical accuracy. [CN] 极简沟通模式。去掉废话/冠词/客套话，省约75% tokens，保留完整技术准确性。 |
-| [teach-hermes-skill](./productivity/teach-hermes-skill/SKILL.md) | [mattpocock](https://github.com/mattpocock) | [EN] Multi-session teaching system. Creates a stateful workspace with HTML lessons, learning records, reference docs, and tracks the user's zone of proximal development. [CN] 多 Session 教学系统。创建有状态的教学空间，生成 HTML 课程 + 学习记录 + 参考文档，追踪用户的最近发展区。 |
+| Skill | Original Author / 原作者 | Description / 说明 | Standalone Repo / 独立仓库 |
+|-------|-------------------------|-------------------|--------------------------|
+| [caveman-hermes-skill](./productivity/caveman-hermes-skill/SKILL.md) | [mattpocock](https://github.com/mattpocock) | [EN] Ultra-compressed communication mode. Drops filler, articles, pleasantries — saves ~75% tokens while keeping full technical accuracy. [CN] 极简沟通模式。去掉废话/冠词/客套话，省约75% tokens，保留完整技术准确性。 | [github.com/cangyueshi/caveman-hermes-skill](https://github.com/cangyueshi/caveman-hermes-skill) |
+| [teach-hermes-skill](./productivity/teach-hermes-skill/SKILL.md) | [mattpocock](https://github.com/mattpocock) | [EN] Multi-session teaching system. Creates a stateful workspace with HTML lessons, learning records, reference docs, and tracks the user's zone of proximal development. [CN] 多 Session 教学系统。创建有状态的教学空间，生成 HTML 课程 + 学习记录 + 参考文档，追踪用户的最近发展区。 | [github.com/cangyueshi/teach-hermes-skill](https://github.com/cangyueshi/teach-hermes-skill) |
 
 ---
 
